@@ -1,0 +1,1 @@
+# pattern-strategy-simple-example
